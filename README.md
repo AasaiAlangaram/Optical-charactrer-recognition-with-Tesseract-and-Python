@@ -5,8 +5,10 @@ Download windows binaries of tesseract-ocr from the following link.
 [Windows Installer made with MinGW-w64](https://tesseract-ocr.github.io/tessdoc/4.0-with-LSTM.html#400-alpha-for-windows)
 
 ### output
-
+[Extract characters from Image](https://github.com/AasaiAlangaram/Optical-charactrer-recognition-with-Tesseract-and-Python/blob/master/Codes/Tesseract_imagetoboxes.py)\
 <img src="https://github.com/AasaiAlangaram/Optical-charactrer-recognition-with-Tesseract-and-Python/blob/master/output%20images/image_to_characters.PNG" width="500">
+
+[Extract words from Image](https://github.com/AasaiAlangaram/Optical-charactrer-recognition-with-Tesseract-and-Python/blob/master/Codes/Tesseract_imagetoword.py)
 <img src="https://github.com/AasaiAlangaram/Optical-charactrer-recognition-with-Tesseract-and-Python/blob/master/output%20images/image_to_words.PNG" width="500">
 
 ### References
