@@ -11,7 +11,7 @@ Download windows binaries of tesseract-ocr from the following link.
 
 ### References
 
-[Tesseract-OCR](https://github.com/tesseract-ocr/tessdoc)
+[Tesseract-OCR](https://github.com/tesseract-ocr/tessdoc)\
 [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos)
 
 
